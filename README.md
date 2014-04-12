@@ -5,9 +5,9 @@ Livereload script taken from tinylr that works with Chrome Apps
 
 To make livereload work in Chrome Apps:
 
-1. Include livereload.js in the folder build of Chrome App
-2. Install tiny-lr with `npm install tiny-lr --save-dev`
-3. Start tiny-lr in your dev task.
+- Include livereload.js in the folder build of Chrome App
+- Install tiny-lr with `npm install tiny-lr --save-dev`
+- Start tiny-lr in your dev task.  
 In gulp you can use this:
 ```
 gulp.task('dev', function () {
@@ -22,7 +22,7 @@ gulp.task('dev', function () {
     });
 });
 ```
-4. Include livereload script in your index.html
+- Include livereload script in your index.html
 ```
 <script src="livereload.js?host=localhost&port=35729"></script>
 ```
