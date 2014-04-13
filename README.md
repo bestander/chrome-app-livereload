@@ -27,6 +27,7 @@ gulp.task('dev', function () {
 <script src="livereload.js?host=localhost&port=35729"></script>
 ```
 
+See [blog post](https://medium.com/p/2a58d804c496) with an example.
 
 License MIT
 ####
