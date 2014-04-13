@@ -27,10 +27,11 @@ gulp.task('dev', function () {
 <script src="livereload.js?host=localhost&port=35729"></script>
 ```
 
-See [blog post](https://medium.com/p/2a58d804c496) with an example.
+# See [blog post](https://medium.com/p/2a58d804c496) with an example.
 
-License MIT
-####
+## License MIT
+
+
 Copyright 2012 Konstantin Raev (bestander@gmail.com)
 
 Permission is hereby granted, free of charge, to any person obtaining
